@@ -33,7 +33,7 @@ Write about 1-2 paragraphs describing the purpose of your project.
 <img width="225px" height="48px" src="https://i.imgur.com/3HIFqOc.png" alt="Project logo">
 <img width="225px" height="48px" src="https://i.imgur.com/LVAcTEc.png" alt="Project logo">
 
-Some info about project current status .
+Some info about project current status.
 
 
 
