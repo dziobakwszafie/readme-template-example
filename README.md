@@ -70,12 +70,15 @@ Explain how to run the tests for that app and contain info about build.
 
 
 ## <img width="20px" height="20px" src="https://i.imgur.com/v3vWn54.png" alt="Tools"> Used tools and libs <a name = "tools"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
+### Main tools
 - [React](https://reactjs.org/) - Web Framework
+- [NextJS](https://nextjs.org/) - React Framework
+- [Express](https://expressjs.com/) - Server Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [MongoDB](https://www.mongodb.com/) - Database
 
-
+### Other tools
+- [Redux](https://react-redux.js.org/) - Store 
 
 ## <img width="20px" height="20px" src="https://i.imgur.com/VzjoqgO.png" alt="Authors"> Authors <a name = "authors"></a>
 - [@dziobakwszafie](https://github.com/dziobakwszafie) 
