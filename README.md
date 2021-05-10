@@ -3,7 +3,7 @@
  <img src="https://i.imgur.com/4wFGWy2.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Project Title</h3>
+<h1 align="center">Readme template</h3>
 
 <div align="center">
 
