@@ -1,9 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/4wFGWy2.png" alt="Project logo"></a>
+ <img src="https://i.imgur.com/QpsWgh9.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Readme template</h3>
 
 <div align="center">
 
@@ -28,10 +27,11 @@ Write about 1-2 paragraphs describing the purpose of your project.
 
 ## <img width="20px" height="20px" src="https://i.imgur.com/ZpOiTNt.png" alt="Status"> Status <a name = "status"></a>
 
-<img width="225px" height="48px" src="https://i.imgur.com/9uiUlEm.png" alt="Project logo">
-<img width="225px" height="48px" src="https://i.imgur.com/ASft06L.png" alt="Project logo">
-<img width="225px" height="48px" src="https://i.imgur.com/3HIFqOc.png" alt="Project logo">
-<img width="225px" height="48px" src="https://i.imgur.com/LVAcTEc.png" alt="Project logo">
+
+<img width="110px" height="24px" src="https://i.imgur.com/vo4iJss.png" alt="Project logo">
+<img width="110px" height="24px" src="https://i.imgur.com/4IB5npn.png" alt="Project logo">
+<img width="110px" height="24px" src="https://i.imgur.com/dwq170C.png" alt="Project logo">
+<img width="110px" height="24px" src="https://i.imgur.com/huGmbc1.png" alt="Project logo">
 
 Some info about project current status.
 
