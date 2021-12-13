@@ -12,7 +12,7 @@
 
 </div>
 
-## <img width="20px" height="20px" src="https://i.imgur.com/JSD4BhW.png" alt="Content"> Table of Contents
+## Table of Contents
 - [About](#about)
 - [Status](#status)
 - [How to start that app](#start)
@@ -20,12 +20,12 @@
 - [Used tools and libs](#tools)
 - [Authors](#authors)
 
-## <img width="20px" height="20px" src="https://i.imgur.com/hx2bbEi.png" alt="About"> About <a name = "about"></a>
+## About <a name = "about"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
 
 
 
-## <img width="20px" height="20px" src="https://i.imgur.com/ZpOiTNt.png" alt="Status"> Status <a name = "status"></a>
+## Status <a name = "status"></a>
 
 
 <img width="110px" height="24px" src="https://i.imgur.com/vo4iJss.png" alt="Project logo">
@@ -37,7 +37,7 @@ Some info about project current status.
 
 
 
-## <img width="20px" height="20px" src="https://i.imgur.com/Mw1Qnmu.png" alt="Start"> How to start that app <a name = "start"></a>
+## How to start that app <a name = "start"></a>
 Explain how to run an app.
 
 ### Download repo. 
@@ -64,12 +64,12 @@ yarn dev
 
 
 
-## <img width="20px" height="20px" src="https://i.imgur.com/IO030X7.png" alt="Tests"> How to run tests <a name = "tests"></a>
+## How to run tests <a name = "tests"></a>
 Explain how to run the tests for that app and contain info about build.
 
 
 
-## <img width="20px" height="20px" src="https://i.imgur.com/v3vWn54.png" alt="Tools"> Used tools and libs <a name = "tools"></a>
+## Used tools and libs <a name = "tools"></a>
 ### Main tools
 - [React](https://reactjs.org/) - Web Framework
 - [NextJS](https://nextjs.org/) - React Framework
@@ -80,7 +80,7 @@ Explain how to run the tests for that app and contain info about build.
 ### Other tools
 - [Redux](https://react-redux.js.org/) - Store 
 
-## <img width="20px" height="20px" src="https://i.imgur.com/VzjoqgO.png" alt="Authors"> Authors <a name = "authors"></a>
+## Authors <a name = "authors"></a>
 - [@dziobakwszafie](https://github.com/dziobakwszafie) 
 
 Feel free to use or join!
