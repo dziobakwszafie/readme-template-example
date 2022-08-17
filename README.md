@@ -38,30 +38,22 @@ Some info about project current status.
 
 
 ## How to start that app <a name = "start"></a>
-Explain how to run an app.
 
-### Download repo. 
+How to run:
 
-### Install dependencies
+1. Download repo.
 
-```
-npm i 
-```
-or 
+2. Install dependencies
+
 ```
 yarn
 ```
 
-### Run app
+3. Run app
 
-```
-npm start
-```
-or
 ```
 yarn dev
 ```
-
 
 
 ## How to run tests <a name = "tests"></a>
